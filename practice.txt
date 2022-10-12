@@ -1,1 +1,4 @@
 this is a practice.
+
+For command line git tutorial 
+pratice.txt file is edited.
